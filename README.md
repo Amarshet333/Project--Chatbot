@@ -1,5 +1,5 @@
 # Project--Chatbot
-# 💬 NeoStats AI Chatbot — RAG + Groq LLM + Web Search
+# 💬 AI Chatbot — RAG + Groq LLM + Web Search
 
 A powerful AI chatbot built using **Retrieval Augmented Generation (RAG)**, **Groq’s ultra-fast LLM**, and **Streamlit UI**.  
 This chatbot allows users to upload documents, build a RAG index, and ask questions with accurate context-based responses.
